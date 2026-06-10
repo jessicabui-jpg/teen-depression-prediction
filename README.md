@@ -23,3 +23,4 @@ Anxiety level, academic pressure, and sleep habits were among the strongest pred
 
 ## Files
 - TeenDepressionPrediction_Notebook.ipynb
+- OMIS115 Final Bui Slides.pdf
