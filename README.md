@@ -14,13 +14,6 @@ The goal is to identify patterns in behavior that may be associated with higher 
 - Pandas
 - Scikit-learn
 - Matplotlib
-
----
-
-## Models Tested
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-
 ---
 
 ## Problem Type
